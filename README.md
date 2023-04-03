@@ -8,6 +8,12 @@ Goose's Shopping List:
 - Prime Meat x 4
 - Rock Salt x 2
 
-Total Cost: 300 rupees.
+**Adding a few more items**
+
+- Hamburger Meat
+- Bell Peppers
+- Daikon
+
+Total Cost: 400 rupees.
 
 That's it!
